@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: utsavshah0305/assignment1-product:latest
+        image: utsavshah0305/assignment1-order:latest
         ports:
         - containerPort: 80
 
